@@ -1,0 +1,123 @@
+*{
+    background-color: rgb(226, 193, 146);
+    font-family: cursive;
+}
+nav{
+    margin-left: 1150px;
+    list-style-type: none;
+    
+}
+.pasha{
+    text-decoration: none;
+    font-size: 36px;
+    margin-left: 24px;
+    color:rgb(168, 119, 108);
+}
+.pasha:hover{
+    color: rgb(145, 88, 99);
+    text-decoration: underline;
+    font-size: 37px;
+    background-color: rgb(165, 165, 165);
+
+    }
+
+    h3{
+        font-size: 29px;
+        margin-left: 2%;
+        color: #314443;
+        text-decoration:underline;
+    }
+    video{
+    width: 700px;
+    height: 500px;
+    margin-left: 612px;
+
+    }
+    li{
+        font-size: 24px;
+        margin-left:5%;
+        color:black
+    }
+    label{
+        font-size: 24px;
+        margin-left: 6%;
+        color: black;
+    }
+    input{
+        margin-left: 46px;
+        margin-bottom: 16px;
+    }
+#aa{
+    margin-left: 100px;
+}
+#cc{
+    margin-left:  69px; ;
+}
+#rr{
+    margin-left: 40spx;
+}
+#zz{
+    margin-left: 90px;
+}
+button{
+    background-color: #9c7567;
+    width: 200px;
+    font-size: 36px;
+    box-shadow: rgb(3, 3, 3);
+    color: rgb(143, 76, 76);
+    font-weight:bold;
+    border-radius: 25px;
+    margin-left: 516px;
+   
+}
+button:hover{
+    color: #d8a9a9;
+    background-color: rgb(139, 106, 106);
+    }
+   
+p{
+    line-height: 50px;
+    display: inline-block;
+    width: 86%;
+    font-size: 22px;
+    margin-left: 137px;
+    margin-top: 200px;
+    text-align: justify;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 160px;
+    margin-left: 700px;
+    margin-top: 100px;
+   
+    
+
+}
+table,th,td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+}
+
+td{
+    width: 10%;
+}
+
+
+
+table{
+    margin: auto;
+    border: 5px solid black;
+   
+}
+.ala{
+    
+}
+footer{
+    text-align: center;
+    font-size: 27px;
+    margin-top: 52px;
+    opacity: 60%;
+    
+    margin-left: 1400px;
+}
