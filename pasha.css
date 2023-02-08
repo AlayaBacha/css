@@ -43,10 +43,14 @@ nav{
         margin-left: 6%;
         color: black;
     }
-    input{
+    .Mahmoud{
+        width: 618px;
+    }
+    form input{
         margin-left: 46px;
         margin-bottom: 16px;
     }
+   
 #aa{
     margin-left: 100px;
 }
